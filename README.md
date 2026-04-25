@@ -1,1 +1,46 @@
-# chessboard-table
+# Chessboard Coffee Table
+
+> *A segmented-construction wooden coffee table with an inlaid chessboard playing surface, built as a personal woodworking project.*
+
+![Hero photo](images/00-hero-chessboard-table.jpg)
+*(placeholder)*
+
+## What this is
+
+A personal woodworking project: a coffee table with a chessboard inlaid into the top, built using segmented construction with contrasting hardwoods.
+
+This is a portfolio piece for the segmented-woodworking technique — the same family of methods used for segmented woodturning, scaled up to a flat-panel furniture surface. The chessboard inlay required precise dimensional control across 64 squares of two contrasting woods, with clean transitions between squares and consistent grain orientation.
+
+## What you'll find
+
+- Build photos
+- Wood selection and dimensional notes
+- Segment-glue-up sequence
+- Finishing schedule
+
+> *(Forthcoming.)*
+
+## Engineering notes
+
+The chessboard square geometry, while visually simple, is dimensionally demanding:
+- **8 × 8 = 64 squares** with two-color alternation
+- **Cumulative dimensional error** is the enemy: by square 8, a 0.5mm-per-square error has compounded to 4mm of misalignment
+- **Wood movement** in two contrasting species at different humidities is not always the same; the substrate has to absorb that
+- **Grain orientation** affects both visual quality and long-term stability
+
+This is the kind of project that sounds simple until you build one.
+
+## License
+
+Released under [CC-BY 4.0](LICENSE) — personal project, free to reuse and adapt with credit.
+
+## Status
+
+| Section | Status |
+|---|---|
+| Repo description, license, gitignore | ✓ done |
+| Build narrative | forthcoming |
+| Wood selection notes | forthcoming |
+| Segment dimensions | forthcoming |
+| Finishing schedule | forthcoming |
+| Hero photo | forthcoming |
