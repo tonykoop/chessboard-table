@@ -3,7 +3,7 @@
 > *A segmented-construction wooden coffee table with an inlaid chessboard playing surface, built as a personal woodworking project.*
 
 ![Hero photo](images/00-hero-chessboard-table.jpg)
-*(placeholder)*
+*Chessboard coffee table during shop finishing: two inlaid playing surfaces set into a large hardwood top, with contrasting square colors and a broad surrounding field.*
 
 ## What this is
 
