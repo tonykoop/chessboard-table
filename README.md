@@ -20,6 +20,9 @@ This is a portfolio piece for the segmented-woodworking technique — the same f
 
 > *(Forthcoming.)*
 
+![Hand-planing the chessboard inlay surface flat](images/2015-09-20%2018.18.27.jpg)
+*Mid-build, September 2015: hand-planing the assembled chessboard panel flat with a No. 5 jack plane. After 64 segmented squares are glued up, the surface has minute height variations at every seam — hand-planing across the panel is the only reliable way to bring it to a single plane without sanding through the thin contrast veneers.*
+
 ## Engineering notes
 
 The chessboard square geometry, while visually simple, is dimensionally demanding:
