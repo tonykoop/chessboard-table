@@ -11,6 +11,8 @@ A personal woodworking project: a coffee table with a chessboard inlaid into the
 
 This is a portfolio piece for the segmented-woodworking technique — the same family of methods used for segmented woodturning, scaled up to a flat-panel furniture surface. The chessboard inlay required precise dimensional control across 64 squares of two contrasting woods, with clean transitions between squares and consistent grain orientation.
 
+Related repositories: [`woodworking`](https://github.com/tonykoop/woodworking) for the broader shop context, and [`ashiko-drum-workshop`](https://github.com/tonykoop/ashiko-drum-workshop) for a very different segmented-construction problem built around stave geometry instead of flat-panel inlay.
+
 ## What you'll find
 
 - Build photos
