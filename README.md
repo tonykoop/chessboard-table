@@ -44,8 +44,11 @@ Released under [CC-BY 4.0](LICENSE) — personal project, free to reuse and adap
 | Section | Status |
 |---|---|
 | Repo description, license, gitignore | ✓ done |
+| Hero photo | ✓ done |
+| Fabrication handoff scaffold | ✓ scaffold only — see [`build-notes/fabrication-handoff.md`](build-notes/fabrication-handoff.md) |
 | Build narrative | forthcoming |
 | Wood selection notes | forthcoming |
 | Segment dimensions | forthcoming |
 | Finishing schedule | forthcoming |
-| Hero photo | forthcoming |
+
+> **CAD archive is not shop-ready.** The `cad/` tree carries rich 2015 SolidWorks parts and drawings, but they have not been re-reviewed for current fabrication. Treat them as historical reference until each gate in [`build-notes/fabrication-handoff.md`](build-notes/fabrication-handoff.md) is signed off by a shop reviewer.
